@@ -1,3 +1,7 @@
+# UPDATED README 
+This fork has an additional geolocation script which I used to geolocate about 70% of the discovered cameras. Logic probably needs some work but it gets the job done - thank you GPT.
+
+
 # Insecam Webcam Scraper
 This Python script uses the Grequests library to quickly scrape links to webcams from the Insecam website, and saves them to a text file.
 
